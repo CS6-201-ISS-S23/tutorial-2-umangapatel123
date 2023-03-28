@@ -1,0 +1,20 @@
+.lineright{
+    float: right;
+}
+.center{
+    text-align: center;
+}
+.lineplainright{
+    float: right;
+}
+.font_times{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+}
+table, th, td {
+    border:1px solid black;
+}
+.b {
+    background-color: red;
+    color: white;
+}
